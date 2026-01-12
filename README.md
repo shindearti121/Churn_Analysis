@@ -32,4 +32,5 @@ To understand churn patterns based on contract types, payment methods, tenure, a
 The analysis highlights the importance of long-term contracts, early customer engagement, and optimized payment methods to reduce churn.
 
 ## Author
-Shruti Pagare
+Shinde Aarti
+
